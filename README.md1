@@ -1,0 +1,170 @@
+# 📊 HR Analytics Dashboard
+
+## 👨‍💻 Project Overview
+
+The HR Analytics Dashboard is a data visualization project developed using Microsoft Power BI.
+
+The main objective of this project is to analyze employee data and understand workforce performance, employee attrition, employee distribution, and HR-related metrics.
+
+This dashboard helps HR teams and business managers understand employee trends and make better data-driven decisions.
+
+## 🎯 Project Objectives
+
+- Analyze total employee count.
+- Understand employee attrition.
+- Calculate employee attrition rate.
+- Analyze employee age distribution.
+- Identify employee attrition by department.
+- Analyze employee attrition by job role.
+- Compare employee attrition by gender.
+- Understand employee monthly income.
+- Identify workforce trends and patterns.
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Excel
+- Data Visualization
+- Data Analysis
+
+## 📊 Dashboard Preview
+
+![HR Analytics Dashboard](./Hr%20Analytics%20Dashboard.png)
+
+## 📌 Key Performance Indicators (KPIs)
+
+### 1. Total Employees
+
+Displays the total number of employees available in the organization.
+
+### 2. Total Attrition
+
+Shows the number of employees who left the organization.
+
+### 3. Attrition Rate
+
+Represents the percentage of employees who left the organization compared to the total employee population.
+
+### 4. Average Age
+
+Displays the average age of employees in the organization.
+
+### 5. Average Monthly Income
+
+Shows the average monthly income of employees.
+
+### 6. Average Years at Company
+
+Represents the average number of years employees have worked in the organization.
+
+## 📈 Dashboard Visualizations
+
+### Employee Attrition by Department
+
+Analyzes employee attrition across different departments.
+
+### Employee Attrition by Job Role
+
+Identifies which job roles have higher employee attrition.
+
+### Employee Attrition by Age Group
+
+Helps understand employee attrition patterns across different age groups.
+
+### Employee Attrition by Gender
+
+Compares employee attrition between male and female employees.
+
+### Employee Attrition by Education Field
+
+Analyzes employee attrition based on educational background.
+
+### Employee Attrition by Years at Company
+
+Helps understand the relationship between employee experience and attrition.
+
+### Employee Attrition by Monthly Income
+
+Analyzes employee attrition across different income levels.
+
+## 🔍 Key Insights
+
+- The dashboard provides an overview of employee workforce distribution.
+- It helps identify departments experiencing employee attrition.
+- Job role analysis helps understand employee turnover patterns.
+- Age group analysis provides insights into employee retention.
+- Gender-based analysis helps compare workforce attrition.
+- Monthly income analysis helps explore compensation-related patterns.
+- Employee experience analysis helps understand workforce stability.
+
+## 🧹 Data Preparation
+
+The project includes data preparation and transformation using Power Query.
+
+The preparation process involves:
+
+1. Importing employee data.
+2. Checking column names and data types.
+3. Identifying missing values.
+4. Checking duplicate records.
+5. Preparing data for analysis.
+6. Creating calculated metrics.
+7. Loading the prepared data into Power BI.
+
+## 📊 Data Analysis
+
+The dashboard uses employee data to analyze workforce metrics.
+
+The analysis focuses on:
+
+- Employee distribution.
+- Employee attrition.
+- Job role analysis.
+- Department analysis.
+- Employee demographics.
+- Employee income.
+- Employee experience.
+
+## 💡 Business Benefits
+
+This dashboard helps organizations:
+
+- Monitor workforce performance.
+- Understand employee attrition.
+- Identify employee retention challenges.
+- Analyze workforce distribution.
+- Support HR decision-making.
+- Improve employee management strategies.
+
+## 👨‍💻 My Role
+
+As a Data Analyst, I worked on:
+
+- Understanding the employee dataset.
+- Preparing and cleaning data.
+- Creating HR-related KPIs.
+- Developing dashboard visualizations.
+- Analyzing employee attrition.
+- Designing an interactive Power BI dashboard.
+- Presenting insights through visual reports.
+
+## 📚 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Power BI
+- Power Query
+- DAX
+- KPI Development
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+
+## 🚀 Project Outcome
+
+Developed an interactive HR Analytics Dashboard to analyze employee workforce metrics and provide insights into employee attrition, job roles, departments, demographics, and employee income.
+
+The dashboard presents HR information in a visual and understandable format to support data-driven decision-making.
+
